@@ -121,6 +121,10 @@ public class MainActivity extends Activity {
 				if( resultStatus.ordinal() >= 3 ) {
 					// The result is stable enough to show something to the user
 					surfaceViewWithOverlay.setLines( lines, resultStatus );
+					/**
+					 * TODO Точка, в которой приложение выдает результат распознавания.
+					 * подставить страницу тут.
+					 */
 				} else {
 					// The result is not stable. Show nothing
 					surfaceViewWithOverlay.setLines( null, ITextCaptureService.ResultStabilityStatus.NotReady );
