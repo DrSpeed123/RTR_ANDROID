@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><person>
+    <Name>Name</Name>
+    <Surname>Фамилия</Surname>
+    <PatrName>Отчество</PatrName>
+    <Birthday>11.11.1997</Birthday>
+    <PassportSeries>12 34</PassportSeries>
+    
+    <PassportNumber>123456</PassportNumber>
+</person>

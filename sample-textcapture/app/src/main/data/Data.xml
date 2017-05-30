@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<data>
+    <some_element1>Name</some_element1>
+    <some_element2>Фамилия</some_element2>
+    <some_element3>Отчество</some_element3>
+    <some_element4>11.11.1997</some_element4>
+    <some_element5>12</some_element5>
+    <some_element6>34</some_element6>
+    <some_element7>123456</some_element7>
+</data>
