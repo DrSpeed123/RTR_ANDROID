@@ -1,0 +1,5 @@
+/lint-results-debug_files/
+/lint-results-release-fatal_files/
+/logs/
+*.html
+*.xml
